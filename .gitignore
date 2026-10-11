@@ -1,0 +1,21 @@
+
+# Quartus generated files
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+*.qws
+*.rpt
+*.summary
+*.sof
+*.pof
+*.jdi
+*.done
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editor
+.vscode/
